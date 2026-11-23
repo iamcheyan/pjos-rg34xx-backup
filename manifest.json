@@ -1,11 +1,12 @@
 {
   "device": "rg34xx",
-  "timestamp": "2026-11-22T14:26:31.413697806Z",
-  "date_str": "2026-11-22 14:26:31",
+  "timestamp": "2026-11-23T03:14:02.893223059Z",
+  "date_str": "2026-11-23 03:14:02",
   "save_files": [
     ".config/pocketjs/backups/retrobilingual-mismatch-20261120/saves/mGBA/Zelda no Densetsu - Fushigi no Boushi (Japan).srm",
     ".config/pocketjs/backups/retrobilingual-mismatch-20261120/states/mGBA/Zelda no Densetsu - Fushigi no Boushi (Japan).state",
     ".config/pocketjs/backups/retrobilingual-mismatch-20261120/states/mGBA/Zelda no Densetsu - Fushigi no Boushi (Japan).state.auto",
+    ".config/pocketjs/resume.state",
     ".config/pocketjs/retrobilingual-autosave.state",
     ".config/pocketjs/retrobilingual-slot1.state",
     ".config/pocketjs/retrobilingual-slot2.state",
@@ -33,7 +34,7 @@
     "pocketshell/saves/mGBA/Golden Sun - The Lost Age (Japan).srm",
     "pocketshell/saves/mGBA/The Legend of Zelda - The Minish Cap (Japan).srm"
   ],
-  "save_count": 29,
+  "save_count": 30,
   "config_files": [
     "/storage/.config/pocketjs/retrobilingual.conf",
     "/storage/.config/pocketjs/runtime.conf",
